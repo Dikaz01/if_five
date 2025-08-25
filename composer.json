@@ -1,13 +1,13 @@
 {
     "name": "dkeruntu/composer_pakage_if_five",
     "type": "library",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "require": {
         "php": "^8.0"
     },
     "autoload": {
         "psr-4": {
-            "Dkeruntu\\ComposerPaсkageIfFive\\": "src/"
+            "Dkeruntu\\ComposerPackageIfFive\\": "src/"
         }
     },
     "authors": [
