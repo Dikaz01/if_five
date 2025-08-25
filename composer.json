@@ -1,0 +1,16 @@
+{
+    "name": "dkeruntu/composer_pakage_if_five",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Dkeruntu\\ComposerPakageIfFive\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dikaz01",
+            "email": "dima.konserv@gmail.com"
+        }
+    ],
+    "require": {}
+}
