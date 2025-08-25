@@ -66,3 +66,11 @@ class IfFive
     }
     
 }
+
+
+
+
+$test = new IfFive;
+
+
+var_dump($test ->checkFive("000101", true));
